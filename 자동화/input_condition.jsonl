@@ -1,0 +1,6 @@
+{"file_id":[0],"group":["cate_1"],"id":0,"value":"식품","describe":"distinct"}
+{"file_id":[0],"group":["cate_1"],"id":1,"value":".category-nm","describe":"tag_name"}
+{"file_id":[0],"group":["cate_2"],"id":2,"value":"음식점","describe":"distinct"}
+{"file_id":[0],"group":["cate_2"],"id":3,"value":".grouplist_a","describe":"tag_name"}
+{"file_id":[0],"group":["cate_3"],"id":4,"value":"tbody.downtdcss tr","describe":"tag_name"}
+{"file_id":[0],"group":["sub_cate_1"],"id":5,"value":["관광식당","일반음식점","휴게음식점"],"describe":"fixed_column"}

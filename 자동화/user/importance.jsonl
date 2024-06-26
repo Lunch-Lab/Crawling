@@ -1,0 +1,14 @@
+{"info":"마이플레이스 수집대상 URL excel 파일","value":{"io":"/Users/ijeonghun/Documents/github/crawling_data/data/4_1_naver_user_크롤링_500개이상.xlsx"},"distinct":"user_file"}
+{"info": "사진/영상 없는 리뷰도 추가", "value": {"css": "._9opr2y", "txt": "사진/영상 리뷰만"}, "distinct": "button"}
+{"info": "첫번째 게시물 클릭", "value": {"css": "._3HPEOr.bJwh8L ._5RYLm7.bEchjN", "attribute": "type", "distinct": "button"}, "distinct": "first_review_click"}
+{"info": "내용더보기 버튼", "value": {"css": "._5RYLm7._7WkVWf", "attribute": "type", "distinct": "button"}, "distinct": "add review"}
+{"info": "태그더보기 버튼", "value": {"css": ".GnPRJ5", "attribute": "role", "distinct": "button"}, "distinct": "add tags"}
+{"info": "리뷰바디", "value": {"css": "._898uc8"}, "distinct": "review_body"}
+{"info": "매장이름", "value": {"css": "._33frdK"}, "distinct": "place_name"}
+{"info": "카테고리 및 주소", "value": {"css": ".e92Yfi", "txt": "카테고리 및 주소"}, "distinct": "place_cate_addr"}
+{"info": "매장이용 세부정보 (이용방법, 대기시간, 목적, 동행)", "value": {"css": "._1ewTPX"}, "distinct": "place_use_detail"}
+{"info": "매장리뷰", "value": {"css": "._3n2arC","txt": "매장리뷰" }, "distinct": "place_review"}
+{"info": "매장 태그", "value": {"css": ".GnPRJ5","txt": "매장 태그"}, "distinct": "place_tag"}
+{"info": "방문정보(방문 일자, 재방문 이력)", "value": {"css": "._4sHGsK", "txt": "방문정보(방문 일자, 재방문 이력)"}, "distinct" : "visit_info"}
+{"info": "게시글 수집 개수","value":60,"distinct":"유저당 게시글"}
+{"info": "게시글 500개 이상 담당(유저)","value":"정훈","distinct":"담당유저"}
